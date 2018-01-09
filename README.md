@@ -1,2 +1,2 @@
 # algorithms
-#basic,intermediate, and advanced algorithms.
+basic,intermediate, and advanced algorithms.
